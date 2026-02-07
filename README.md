@@ -2,7 +2,7 @@
 **3rd year CS & AI student @ IE University** — focused on **Cloud/DevOps**, **Data science** and **ML pipelines**, and very open to learn!  
 I like **turning data into valuable systems**: from messy inputs to deploying and monitoring useful solutions.
 
-📍Española viviendo en Madrid
+📍Segoviana viviendo en Madrid
 
 ### 🚀 What I’m focusing on
 - ☁️ Cloud & DevOps: Azure/AWS, CI/CD, containerized deployments, reliability basics  
