@@ -1,15 +1,20 @@
-# Bea Martín 👋
+# Beatriz Martín 📈
 **3rd year CS & AI student @ IE University** — focused on **Cloud/DevOps**, **Data science** and **ML pipelines**.  
 I like **turning data into valuable systems**: from messy inputs to deploying and monitoring useful solutions.
+📍Madrid
 
 ### 🚀 What I’m focusing on
 - ☁️ Cloud & DevOps: Azure/AWS, CI/CD, containerized deployments, reliability basics  
 - 🤖 ML workflows: data preprocessing, model evaluation, reproducibility  
 - 🧱 Backend foundations: APIs, databases, clean architecture
 
-### 🧰 Tech I use
-**Python · Java · SQL · Git/Linux · Docker · CI/CD**  
+### 🧰 Tech Stack
+**Python · Java · C · SQL · Git/Linux · CI/CD · Docker**  
 Cloud: **Azure** | AWS: **AWS Educate (foundations)**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,git,github,linux,docker,azure,aws,sklearn,bash" />
+</p>
+
 
 ### ⭐ Some featured projects
 - **DevOps Job Portal (Azure)** — deployed full-stack app on Azure (App Service + Azure SQL) + CI/CD workflows  
