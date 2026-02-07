@@ -1,4 +1,4 @@
-# Beatriz Martín 📈
+# Beatriz Martín 🫱🏼‍🫲🏻
 **3rd year CS & AI student @ IE University** — focused on **Cloud/DevOps**, **Data science** and **ML pipelines**.  
 I like **turning data into valuable systems**: from messy inputs to deploying and monitoring useful solutions.
 📍Madrid
