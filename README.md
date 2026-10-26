@@ -11,7 +11,7 @@ I like **turning data into valuable systems**: from messy inputs to deploying an
 
 ### 🧰 Tech Stack
 **Python · Java · C · SQL · Git/Linux · CI/CD · Docker**  
-Cloud: **Azure** | AWS: **AWS Educate (foundations)**
+Cloud: **Azure** | AWS: **Certified AI Practitioner, AWS Educate (foundations)**
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,sql,git,github,linux,docker,azure,aws,sklearn,bash" />
 </p>
