@@ -30,4 +30,4 @@ Cloud: **Azure** | AWS: **Certified AI Practitioner, AWS Educate (foundations)**
 - LinkedIn: https://www.linkedin.com/in/beamartin27
 
 ### 📫 Contact
-Open to internships from Feb 2026. Feel free to reach out via LinkedIn.
+Open to internships from January 2027. Feel free to reach out via LinkedIn.
